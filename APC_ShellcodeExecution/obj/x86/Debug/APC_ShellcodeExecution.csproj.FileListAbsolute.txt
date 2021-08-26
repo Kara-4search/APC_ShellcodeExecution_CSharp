@@ -1,0 +1,7 @@
+C:\Project\Projects\Project_APC_ShellcodeExecution\APC_ShellcodeExecution\APC_ShellcodeExecution\bin\x86\Debug\APC_ShellcodeExecution.exe.config
+C:\Project\Projects\Project_APC_ShellcodeExecution\APC_ShellcodeExecution\APC_ShellcodeExecution\bin\x86\Debug\APC_ShellcodeExecution.exe
+C:\Project\Projects\Project_APC_ShellcodeExecution\APC_ShellcodeExecution\APC_ShellcodeExecution\bin\x86\Debug\APC_ShellcodeExecution.pdb
+C:\Project\Projects\Project_APC_ShellcodeExecution\APC_ShellcodeExecution\APC_ShellcodeExecution\obj\x86\Debug\APC_ShellcodeExecution.csproj.CoreCompileInputs.cache
+C:\Project\Projects\Project_APC_ShellcodeExecution\APC_ShellcodeExecution\APC_ShellcodeExecution\obj\x86\Debug\APC_ShellcodeExecution.exe
+C:\Project\Projects\Project_APC_ShellcodeExecution\APC_ShellcodeExecution\APC_ShellcodeExecution\obj\x86\Debug\APC_ShellcodeExecution.pdb
+C:\Project\Projects\Project_APC_ShellcodeExecution\APC_ShellcodeExecution\APC_ShellcodeExecution\obj\x86\Debug\APC_ShellcodeExecution.csprojAssemblyReference.cache
