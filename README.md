@@ -6,7 +6,7 @@ blog link: may not gonna update
 - APC injection is a method of executing arbitrary code in the address space of a separate live process.
 - QueueUserAPC function, Adds a user-mode asynchronous procedure call (APC) object to the APC queue of the specified thread.
 - Only tested in Win10/x64, works fine, It should works on x86.
-- The shellcode below is a message 
+- The shellcode below is a messagebox
 ```
 /*   Messagebox shellcode   */
             byte[] buf1 = new byte[328] {
