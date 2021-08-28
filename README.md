@@ -61,3 +61,4 @@ blog link: may not gonna update
 	6. https://www.ired.team/offensive-security/code-injection-process-injection/early-bird-apc-queue-code-injection
 	7. https://www.ired.team/offensive-security/code-injection-process-injection/apc-queue-code-injection
 	8. https://attack.mitre.org/techniques/T1055/004/
+	9. https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-queueuserapc
